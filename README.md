@@ -11,3 +11,4 @@
 * Estado de los componentes
 * Stateful & Stateless Components
 * Props
+* Eventos (onClick, onChange, onSubmit)
