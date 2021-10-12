@@ -12,3 +12,13 @@
 * Stateful & Stateless Components
 * Props
 * Eventos (onClick, onChange, onSubmit)
+
+## Sesión 03
+
+* Prop Types
+* Ciclos de Vida
+  * componentWillMount
+  * componentDidMount
+  * componentDidUpdate
+  * componentWillUnmount
+* Integración con Backend
