@@ -1,5 +1,7 @@
 # Desarrollo de Frontend con React
 
+## Temario
+
 ## Sesión 01
 
 * Introducción a React
@@ -22,3 +24,12 @@
   * componentDidUpdate
   * componentWillUnmount
 * Integración con Backend
+
+## Sesión 04
+
+* Introducción a Hooks
+* useState
+* useRef
+* useEffect
+* Forms + Hooks
+* fetch + Hooks
